@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/torweld/precache-manifest.a86734b74a759cfac4ff2fcefd1dd77c.js"
+  "/torweld/precache-manifest.8481887e66f5e9852b9e281c36064065.js"
 );
 
 workbox.clientsClaim();
