@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "27d34ff5eb3d18f9a46c",
-    "url": "/torweld/static/css/main.4b5046e2.chunk.css"
+    "revision": "3ba7dea8f00346a36ae4",
+    "url": "/torweld/static/css/main.e5f5d353.chunk.css"
   },
   {
-    "revision": "27d34ff5eb3d18f9a46c",
-    "url": "/torweld/static/js/main.27d34ff5.chunk.js"
+    "revision": "3ba7dea8f00346a36ae4",
+    "url": "/torweld/static/js/main.3ba7dea8.chunk.js"
   },
   {
     "revision": "7d20b56092cc10d09dab",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/torweld/static/media/about-img.b345643b.png"
   },
   {
-    "revision": "6e5035618080ebdd7d8ff64cb693adb0",
+    "revision": "36a78f3063425ddcafc242eaf8bbddf6",
     "url": "/torweld/index.html"
   }
 ];
